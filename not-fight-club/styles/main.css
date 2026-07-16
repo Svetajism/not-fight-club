@@ -1,0 +1,15 @@
+/* только @import остальных, задаёт порядок подключения */
+
+@import 'variables.css';
+@import 'base.css';
+@import 'layout.css';
+@import 'components/button.css';
+@import 'components/modal.css';
+@import 'components/hp-bar.css';
+@import 'components/zone-picker.css';
+@import 'components/battle-log.css';
+@import 'screens/registration.css';
+@import 'screens/home.css';
+@import 'screens/character.css';
+@import 'screens/settings.css';
+@import 'screens/battle.css';

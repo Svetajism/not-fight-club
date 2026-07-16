@@ -1,0 +1,1 @@
+// saveState/loadState (JSON вокруг localStorage, один ключ)
